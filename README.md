@@ -12,11 +12,11 @@ This calculator perform all basic arithmetic operations, advanced functions like
 
 ## LIVE PROJECT
 
-    - **Live link** : https://anil-scientific-calculator.netlify.app/
+      [Live link](https://anil-scientific-calculator.netlify.app/)
 
     - **Scientific-Calculator** :
         
-       ![Scientific-Calculator](https://github.com/anil-52026/Scientific-Calculator/blob/main/src/assets/calculator.png)
+       ![Scientific-Calculator](https://github.com/anil-52026/Scientific-Calculator/blob/main/src/assets/calculator.png?raw=true)
          
          
 ## Technology Stack
