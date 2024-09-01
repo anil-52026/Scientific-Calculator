@@ -1,8 +1,39 @@
-# React + Vite
+# Scientific-Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to Scientific-Calculator repository
 
-Currently, two official plugins are available:
+This calculator perform all basic arithmetic operations, advanced functions like trigonometry, logarithms, exponents, and special functions (e.g., factorial, random number).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+
+- [Live Project](#live-project)
+- [Technology Stack](#technology-stack)
+- [Installation](#installation)
+
+## LIVE PROJECT
+    - **Live link** : https://anil-scientific-calculator.netlify.app/
+
+    - **Scientific-Calculator** :
+        
+         ![Scientific-Calculator](https://github.com/anil-52026/src/assets/calculator.png)
+         
+## Technology Stack
+
+- **Frontend**: HTML, Tailwind CSS, JavaScript, React.js
+
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   https://github.com/anil-52026/Scientific-Calculator.git
+   
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Run the application**:
+   ```bash
+   npm run dev
